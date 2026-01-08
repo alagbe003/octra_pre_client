@@ -1,4 +1,4 @@
-aiohttp
-pynacl
-pyperclip
-cryptography
+aiohttp==3.13.3
+pynacl==1.6.2
+pyperclip==1.11.0
+cryptography==46.0.3
